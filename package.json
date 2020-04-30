@@ -1,0 +1,15 @@
+{
+  "name": "rogue-phbot",
+  "version": "0.0.1",
+  "description": "The rogue PH bot!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dolan Bright",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "steamapi": "^2.0.7"
+  }
+}
